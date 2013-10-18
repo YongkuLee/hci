@@ -39,6 +39,7 @@
             <br/>
         </c:forEach>
     </div>
+    <!--
     <div class="span-11 last">
         <form action="/news/add" method="post">
             <p>
@@ -56,6 +57,7 @@
             <input type="submit" value="입력"/>
         </form>
     </div>
+    -->
 </div>
 </body>
 </html>
